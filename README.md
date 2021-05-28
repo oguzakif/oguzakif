@@ -1,4 +1,4 @@
-### Hi there, I'm a Computer Engineering student in Dokuz Eylul University. Currently, I'm interested in web and mobile development.
+### Hello there, I'm a Computer Engineering student in Dokuz Eylul University. Currently, I'm interested in web and mobile development.
 
 <!--
 **oguzakif/oguzakif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
