@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oğuz Akif</h1>
-<h3 align="center">A passionate frontend developer from Turkey. Maybe more ?</h3>
+<h3 align="center">A passionate flutter developer from Turkey.</h3>
 
 <p align="left"> <a href="https://twitter.com/oguzakiff" target="blank"><img src="https://img.shields.io/twitter/follow/oguzakiff?logo=twitter&style=for-the-badge" alt="oguzakiff" /></a> </p>
 
-- 🌱 I’m currently learning **frontend and backend development.**
+- 🌱 I’m currently interested in **mobile, frontend and backend development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
