@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzakif&show_icons=true&locale=en&layout=compact&theme=jolly" alt="oguzakif" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzakif&show_icons=true&locale=en&theme=jolly" alt="oguzakif" width=478/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&redirect=true)
