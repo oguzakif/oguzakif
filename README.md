@@ -18,4 +18,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzakif&show_icons=true&locale=en&theme=jolly" alt="oguzakif" width=478/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&cover_image=true&theme=novatorem&bar_color=ff00ea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&redirect=true)
