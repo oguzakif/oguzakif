@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oğuz Akif</h1>
-<h3 align="center">A passionate flutter developer from Turkey.</h3>
+<h3 align="center">A passionate Computer Engineering student from Turkey.</h3>
 
-- 🌱 I’m currently interested in **mobile, frontend and backend development.**
+- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently interested in **Computer Vision, Image Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
