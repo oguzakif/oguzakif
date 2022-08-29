@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuz Akif</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey.</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning Concepts**
 - 🌱 I’m currently interested in **Computer Vision, Image Processing**
 
 <h3 align="left">Connect with me:</h3>
