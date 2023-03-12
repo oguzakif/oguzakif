@@ -37,5 +37,3 @@
 </div>
 
 </br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&cover_image=true&theme=novatorem&bar_color=ff00ea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oguztufek&redirect=true)
