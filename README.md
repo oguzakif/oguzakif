@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oğuz Akif</h1>
-<h3 align="center">A passionate Computer Engineering student from Turkey.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning Concepts**
 - 🌱 I’m currently interested in **Computer Vision, Image Processing**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oguzakiftufekcioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzakiftufekcioglu" height="40" width="40" /></a>&nbsp;
 <a href="https://medium.com/@oguzakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/medium.svg" alt="oguzakiftufekcioglu" height="40" width="40" /></a>&nbsp;
